@@ -7,7 +7,7 @@
 Primero se deben instalar las dependencias del proyecto con:
 
 ```bash
-nmp install
+npm install
 ```
 
 Luego, escribir en la consola:
