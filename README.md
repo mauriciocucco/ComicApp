@@ -12,8 +12,7 @@ nmp install
 
 Luego, escribir en la consola:
 
-```
-bash
+```bash
 ng serve -o
 ```
 
