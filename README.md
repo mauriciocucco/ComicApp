@@ -1,6 +1,9 @@
 # SPA Comic App
 
-Éste proyecto corresponde a la primera app que desarollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Se encuentra hecho con **Angular CLI** (version 11.0.4.).
+Éste proyecto corresponde a la primera app que desarollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Se encuentra hecho con **Angular CLI** (version 11.0.4.). Para su instalación:
+```bash
+npm install -g @angular/cli
+```
 
 ## Iniciar la aplicación
 
